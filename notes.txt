@@ -1,6 +1,0 @@
-mongodb
-
-laurence/laurence
-
-connect string
-mongodb+srv://laurence:<password>@devconnect-l4dhe.mongodb.net/test?retryWrites=true
