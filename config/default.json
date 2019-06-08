@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://laurence:laurence@devconnect-l4dhe.mongodb.net/test?retryWrites=true"
+    "mongoURI": "mongodb+srv://laurence:laurence@devconnect-l4dhe.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "Sup3rS3cretT0ken"
 }
